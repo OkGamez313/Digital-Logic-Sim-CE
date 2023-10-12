@@ -1,6 +1,6 @@
-# Digital-Logic-Sim Community Edition
+# A fork of a fork of Digital-Logic-Sim Community Edition
 
-This version includes plenty of new features, including:
+DLS-CE includes plenty of new features, including:
 
 - New built-in chips like
   - Custom Hz Clock
@@ -24,7 +24,11 @@ This version includes plenty of new features, including:
 - VSync & fps target
 - Improved UI
 
-To download this version, head to the [latest release][1], download, unzip and play!
+Fork 1 includes:
+- Colors
+
+My version does not add anything else. The only changes are my trying to get it to work
+
 
 This is based on the original Digital Logic Sim by [SebLague][2] at [SebLague/Digital-Logic-Sim][3]
 
@@ -37,11 +41,6 @@ This is based on the original Digital Logic Sim by [SebLague][2] at [SebLague/Di
 - [SebLague/Digital-Logic-Sim][3]
 - [UkrainianBanderasCat/Digital-Logic-Sim-2][5]
 
-## Contributors
-
-[![contributors](https://contrib.rocks/image?repo=DigitalLogicSimCommunity/Digital-Logic-Sim-CE)](https://github.com/DigitalLogicSimCommunity/Digital-Logic-Sim-CE/graphs/contributors)
-
-[1]: https://github.com/DigitalLogicSimCommunity/Digital-Logic-Sim-CE/releases/latest
 [2]: https://github.com/SebLague
 [3]: https://github.com/SebLague/Digital-Logic-Sim
 [4]: https://www.youtube.com/watch?v=QZwneRb-zqA
